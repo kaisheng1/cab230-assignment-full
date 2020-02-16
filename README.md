@@ -3,7 +3,7 @@
 * GET request without JWT verification
   * /offences => returns an array of offences recorded.
   * /areas => returns array of Local Government Areas.
-  * /area/:id => 
+  * /area/:id => returns the location of specific area.
   * /ages => returns an array of age categories. 
   * /genders => returns an array of gender categories. 
   * /years => returns an array of years recorded. 
