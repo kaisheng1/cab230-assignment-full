@@ -9,7 +9,7 @@
   * /years => returns an array of years recorded. 
   
 * GET with JWT verification
-  * /search?offence=xxx&param1=xxxx&param2=xxxx => The primary search route, with required offence and optional filter parameters, which again must be url encoded. (Requires authentication). Params must be one of: area, age, gender, year.
+  * /search?offence=xxx&param1=xxxx&param2=xxxx => The primary search route, with required offence and optional filter parameters. Params must be one of: area, age, gender, year.
   
 * POST 
   * /register => Register using email and password 
