@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = https://github.com/kaisheng1/cab230-assignment-full.git
+	url = https://github.com/kaisheng1/cab230-assignment-client.git
 [submodule "server"]
 	path = server
-	url = https://github.com/kaisheng1/cab230-assignment-full.git
+	url = https://github.com/kaisheng1/cab230-assignment-server.git
