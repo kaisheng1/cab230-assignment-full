@@ -1,5 +1,7 @@
 ## SQL Setup
-Coming soon!
+The server here uses MySQL for database. You will find the downloads here: https://dev.mysql.com/downloads/mysql/ and you should choose one appropriate to your OS. Accept the defaults and install as a service if you are using windows.
+
+With mysqldump.sql file in database directory, you should be able to load the script file and run the script. Check this video out if you want to know how to do it: https://www.youtube.com/watch?v=POcHaIwmAhw.
 
 ## API Routes 
 * GET request without JWT verification
