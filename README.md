@@ -21,6 +21,21 @@ With mysqldump.sql file in database directory, you should be able to load the sc
   
   
 ## Front-end pages
-Coming soon!
-  
-  
+This is where you can log in. However, you may need to register a new account if you haven't got any.
+
+<img src="/images/login.PNG" align="left" hspace="20" /> <img src="/images/signup.PNG" align="left" hspace="20" /> 
+ 
+ The home page with only logout button(currently).
+ <img src="/images/home.PNG" />
+ 
+ The grid page showing the data by table.
+ <img src="/images/grid.PNG" />
+ 
+ And you can search by the offence or filter by optional params.
+ <img src="/images/gridWithFilter.PNG" />
+ 
+ The graph page.
+ <img src="/images/graph.PNG" />
+ 
+ The map page.
+ <img src="/images/map.PNG" />
