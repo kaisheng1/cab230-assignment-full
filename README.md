@@ -1,5 +1,7 @@
-## API Routes 
+## SQL Setup
+Coming soon!
 
+## API Routes 
 * GET request without JWT verification
   * /offences => returns an array of offences recorded.
   * /areas => returns array of Local Government Areas.
@@ -14,4 +16,9 @@
 * POST 
   * /register => Register using email and password 
   * /login => Logging into your account using the details provided. This allows access to authenticated routes via a JSON Web Token. 
+  
+  
+## Front-end pages
+Coming soon!
+  
   
