@@ -1,3 +1,6 @@
+## To use it
+Git clone the folder and check out the .env.sample and create your own .env file.
+
 ## SQL Setup
 The server here uses MySQL for database. You will find the downloads here: https://dev.mysql.com/downloads/mysql/ and you should choose one appropriate to your OS. Accept the defaults and install as a service if you are using windows.
 
